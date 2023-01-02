@@ -24,6 +24,7 @@ MCSA em Windows Server 2021R2.
 </div>
 
 ### 📊 Status Github
-<div>
-  <img height="90px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucelinopinheiro&layout=compact&hide_title=true&border_color=9E9E9E&title_color=EBAC00&text_color=D9D9D9&bg_color=22272E&langs_count=4&locale=pt-br&card_width=400px" />
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jucelinopinheiro&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucelinopinheiro&layout=compact&theme=graywhite&hide_border=true" width="313" />
 </div>
