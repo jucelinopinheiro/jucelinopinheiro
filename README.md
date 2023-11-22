@@ -8,7 +8,7 @@
 
 Anos de experiência em Redes de Computadores, Hardware e Administração de Sistemas. Conhecimentos abrangentes em Cloud.
 
-MBA em Gestão de Projetos pelo Centro Universitário Internacional (UNINTER), Graduado em Gestão de Sistemas de Informação pela Universidade Paulista (UNIP), Licenciatura em Pedagogia Faculdade de Educação Paulistana (FAEP), Técnico em Informática pela Escola SENAC SP.
+MBA em Gestão de Projetos pelo Centro Universitário Internacional (UNINTER), Licenciatura em Pedagogia Faculdade de Educação Paulistana (FAEP), Graduado em Gestão de Sistemas de Informação pela Universidade Paulista (UNIP), Técnico em Informática pela Escola SENAC SP.
 
 MCSA em Windows Server 2021R2.
 
