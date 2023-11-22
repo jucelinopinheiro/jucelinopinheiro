@@ -10,7 +10,7 @@ Anos de experiência em Redes de Computadores, Hardware e Administração de Sis
 
 MBA em Gestão de Projetos pelo Centro Universitário Internacional (UNINTER), Licenciatura em Pedagogia Faculdade de Educação Paulistana (FAEP), Graduado em Gestão de Sistemas de Informação pela Universidade Paulista (UNIP), Técnico em Informática pela Escola SENAC SP.
 
-##Certificações:
+## Certificações:
 MCSA em Windows Server 2021R2.
 AZ-900, SC-900, AI-900, DP-900...
 ### Sim! gosto muito do mundo Microsoft
